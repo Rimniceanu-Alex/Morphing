@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1705478981 source:d:\proiecte codeblocks\morphingg\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdio.h>
+	<cstdlib>
+	<graphics.h>
+	<fstream>
+
